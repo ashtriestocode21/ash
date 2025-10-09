@@ -1,0 +1,22 @@
+#wall{
+position: absolute;
+background-color: rgb(39, 23, 59);
+width: 100%;
+height: 70%;
+}
+
+div {
+
+}
+
+body {
+    position: absolute;
+    background-color: gray;
+}
+
+#floor {
+position: absolute;
+background-color: rgb(32, 25, 31);
+
+
+}

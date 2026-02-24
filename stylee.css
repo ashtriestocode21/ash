@@ -1,0 +1,30 @@
+#links {
+    flex-direction: column;
+    display: flex;
+    margin-left: 10%;
+    
+    
+
+}
+
+a {
+   margin-left: 40%;
+    border: 6px dotted blueviolet;
+    padding: 10px ;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(216, 191, 231);
+    font-family: Delta Block;
+}
+
+:root {
+    --bright: #80e7e2;
+}
+
+body {
+    background-color: var(--bright)
+}
+@font-face {
+    font-family: "Delta Block";
+    src: url(fonts/DeltaBlock-Regular.ttf);
+}

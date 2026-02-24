@@ -20,11 +20,15 @@ a {
 :root {
     --bright: #80e7e2;
 }
+/*how to do cutom color ^^ */
+
 
 body {
     background-color: var(--bright)
 }
+
 @font-face {
     font-family: "Delta Block";
     src: url(fonts/DeltaBlock-Regular.ttf);
 }
+/*how to do custom font ^^ */
